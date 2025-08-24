@@ -51,3 +51,4 @@ To generate a requirements.txt file, navigate to the terminal and run this code 
 </p> 
 "# PricePrediction_RealEstate" 
 "# PricePredictionRealEstate" 
+"# PricePredictionRealEstate" 
